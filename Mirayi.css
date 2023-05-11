@@ -202,11 +202,11 @@
 
 /* Mirayi Edits */
 .selected-26oxtA {
-	background: rgba(100, 100, 100, 0.35);
+	background: rgba(100, 100, 100, 0.2);
     transition: 0.2s ease;
 }
 .selected-26oxtA:hover {
-	background: rgba(100, 100, 100, 0.5) !important;
+	background: rgba(100, 100, 100, 0.35) !important;
     transition: 0.2s ease;
 }
 .theme-dark #vc-spotify-player {
@@ -236,4 +236,10 @@
 }
 .childWrapper-1j_1ub:hover {
 	background-color: var(--brand-experiment) !important;
+}
+.selected-1-Z6gm .layout-1qmrhw {
+	background-color: rgba(100,100,100,0.2);
+}
+.expanded-3lghlw {
+	border: 1px solid rgba(100,100,100,0.2);
 }
