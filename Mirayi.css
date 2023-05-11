@@ -11,6 +11,7 @@
 
 /* Default import keep */
 @import url(https://raw.githubusercontent.com/Mirayii/WarfareDSThemes/main/naat.v3.css);
+@import url(https://raw.githubusercontent.com/Mirayii/WarfareDSThemes/main/global_edits.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
@@ -80,9 +81,9 @@
   /*
     Video / Screen share buttons
   */
-  --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
+  --video-screen-button-background-color: rgba(100, 100, 100, 0.2);
   --video-screen-button-foreground-color: white;
-  --video-screen-button-background-hovor-color: rgba(200, 200, 200, 0.4);
+  --video-screen-button-background-hovor-color: rgba(100, 100, 100, 0.4);
   --video-screen-button-foreground-hovor-color: white;
 
   /*
@@ -198,51 +199,4 @@
   --reaction-emoji-border-color: 1px solid transparent;
   --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0.1);
   --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
-}
-
-/* Mirayi Edits */
-.selected-26oxtA {
-	background: rgba(100, 100, 100, 0.2);
-    transition: 0.2s ease;
-}
-.selected-26oxtA:hover {
-	background: rgba(100, 100, 100, 0.35) !important;
-    transition: 0.2s ease;
-}
-.theme-dark #vc-spotify-player {
-	background: transparent !important;
-}
-.childWrapper-1j_1ub {
-	background-color: rgba(0,0,0,.7);
-}
-.root-1CAIjD {
-	background-color: rgba(30,30,30,.3) !important;
-}
-.footer-IubaaS {
-	background-color: rgba(0,0,0,.3) !important;
-}
-.vc-notification-root {
-	background-color: rgba(0,0,0,0.8) !important;
-    border-left: 5px solid var(--main-theme-color) !important;
-}
-.theme-dark .bar-2H7Q9u, .theme-dark .markDash-1ATsxA {
-	background: rgba(100,100,100,0.3) !important;
-}
-.folder-241Joy {
-	background: rgba(100,100,100,0.2) !important;
-}
-.searchBar-2aylmZ {
-	background: rgba(0,0,0,0.5); !important;
-}
-.childWrapper-1j_1ub:hover {
-	background-color: var(--brand-experiment) !important;
-}
-.selected-1-Z6gm .layout-1qmrhw {
-	background-color: rgba(100,100,100,0.2);
-}
-.expanded-3lghlw {
-	border: 1px solid rgba(100,100,100,0.2);
-}
-.barFill-3RgCsY {
-	background: var(--main-theme-color);
 }
