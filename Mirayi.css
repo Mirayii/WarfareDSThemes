@@ -223,7 +223,7 @@
 }
 .vc-notification-root {
 	background-color: rgba(0,0,0,0.8) !important;
-    border-left: 5px solid #8aff9d !important;
+    border-left: 5px solid var(--main-theme-color) !important;
 }
 .theme-dark .bar-2H7Q9u, .theme-dark .markDash-1ATsxA {
 	background: rgba(100,100,100,0.3) !important;
