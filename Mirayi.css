@@ -202,6 +202,12 @@
 
 /* Mirayi Edits */
 .selected-26oxtA {
-	background: rgba(155,155,155,0.4) !important;
+	background: rgba(125, 125, 125, 0.4) !important;
+}
+.theme-dark #vc-spotify-player {
+	background: transparent !important;
+}
+.childWrapper-1j_1ub {
+	background-color: rgba(0,0,0,.7) !important;
 }
 
