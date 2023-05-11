@@ -47,3 +47,6 @@
 .button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx {
 	background-color: var(--main-theme-color);
 }
+.attachedBars-2BCP3l {
+	background-color: rgba(0,0,0,0.5);
+}
