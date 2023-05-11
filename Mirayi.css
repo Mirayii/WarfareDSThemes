@@ -217,12 +217,15 @@
 	background-color: rgba(0,0,0,.3) !important;
 }
 .vc-notification-root {
-	background-color: rgba(0,0,0,0.8);
-    border-left: 5px solid #8aff9d;
+	background-color: rgba(0,0,0,0.8) !important;
+    border-left: 5px solid #8aff9d !important;
 }
 .theme-dark .bar-2H7Q9u, .theme-dark .markDash-1ATsxA {
-	background: rgba(100,100,100,0.3);
+	background: rgba(100,100,100,0.3) !important;
 }
 .folder-241Joy {
-	background: rgba(100,100,100,0.2);
+	background: rgba(100,100,100,0.2) !important;
+}
+.searchBar-2aylmZ {
+	background: rgba(10,10,10,0.65) !important;
 }
