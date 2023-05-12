@@ -94,3 +94,6 @@
 .mentioned-Tre-dv:before {
 	background-color: rgb(var(--main-theme-color));
 }
+.mentioned-Tre-dv:hover {
+	background-color: rgba(var(--main-theme-color), 0.1);
+}
