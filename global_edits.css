@@ -97,3 +97,6 @@
 .message-2CShn3.mentioned-Tre-dv.selected-2LX7Jy,.mouse-mode.full-motion .mentioned-Tre-dv:hover {
 	background-color: rgba(var(--main-theme-color), 0.1);
 }
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+	background-color: rgb(var(--main-theme-color));
+}
