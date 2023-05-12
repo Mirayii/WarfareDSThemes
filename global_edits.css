@@ -74,3 +74,17 @@
 .upload-vLbqu- {
 	background-color: rgba(0,0,0,0.5);
 }
+.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy {
+	background-color: rgba(100,100,100,0.3);
+	transition: 0.2s ease;
+}
+.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy:hover, .topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy {
+	background-color: rgba(100,100,100,0.5);
+	transition: 0.2s ease;
+}
+.accountProfileCard-lbN7n- {
+	background-color: rgba(0,0,0,0.6);
+}
+.modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
+	background-color: rgba(100,100,100,0.3);
+}
