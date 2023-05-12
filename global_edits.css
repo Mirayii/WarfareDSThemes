@@ -100,3 +100,7 @@
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
 	background-color: rgb(var(--main-theme-color));
 }
+.reaction-3vwAF2 {
+	border: rgba(100,100,100,0.5);
+	background: rgba(100,100,100,0.2);
+}
