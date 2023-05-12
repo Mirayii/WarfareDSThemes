@@ -112,3 +112,32 @@
 	border: 1px solid rgba(var(--main-theme-color),0.7);
 	background: rgba(var(--main-theme-color), 0.4);
 }
+.picker-20lcBA {
+	background-color: rgba(0,0,0,0.8);
+}
+.soundButton-2P2Ua2 {
+	background: rgba(100,100,100,0.35);
+	border: 1px solid rgba(100,100,100,0.5);
+}
+.guildIcon-2SUGiq {
+	background-color: transparent;
+}
+.soundButton-2P2Ua2:hover {
+	background: rgba(150,150,150,0.35);
+	border: 1px solid rgba(150,150,150,0.5);
+}
+.menu-2TXYjN {
+	background: rgba(0,0,0,0.7);
+}
+.button-1zW0-r {
+	background-color: rgba(0,0,0,0.8);
+}
+.colorDefault-2_rLdz.focused-3LIdPu {
+	background-color: rgb(var(--main-theme-color));
+}
+.lookFilled-1H2Jvj.colorBrand-2M3O3N {
+	background-color: rgb(var(--main-theme-color));
+}
+.button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX {
+	background-color: var(--video-screen-button-background-color) !important;
+}
