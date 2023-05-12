@@ -45,7 +45,10 @@
 	background: rgb(var(--main-theme-color));
 }
 .button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx {
-	background-color: rgb(var(--main-theme-color));
+	background-color: rgba(var(--main-theme-color), 0.2) !important;
+}
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx:hover, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx:hover {
+	background-color: rgba(var(--main-theme-color),0.4) !important;
 }
 .attachedBars-2BCP3l {
 	background: rgba(0,0,0,0.5);
@@ -140,4 +143,9 @@
 }
 .button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX {
 	background-color: var(--video-screen-button-background-color) !important;
+}
+.button-1EGGcP.buttonColor-3bP3fX:hover,
+.button-1EGGcP .buttonColor-3bP3fX:hover {
+    background-color: var(--video-screen-button-background-hovor-color) !important;
+    color: var(--video-screen-button-foreground-hovor-color) !important;
 }
